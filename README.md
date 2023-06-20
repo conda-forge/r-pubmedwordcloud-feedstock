@@ -1,11 +1,11 @@
-About r-pubmedwordcloud
-=======================
+About r-pubmedwordcloud-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pubmedwordcloud-feedstock/blob/main/LICENSE.txt)
 
 Home: http://felixfan.github.io/PubMedWordcloud/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pubmedwordcloud-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create a word cloud using the abstract of publications from 'Pubmed'.
 
